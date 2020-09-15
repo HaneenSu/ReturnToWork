@@ -1,2 +1,2 @@
 # Return To Work
-Simulator for going back to work after COVID-19 pandemic. 
+In the first quarter of 2020, the whole world suffered from a severe pandemic that resulted in thousands of deaths, overloading of hospitals and health facilities and spike in the um-employement rate. In this project, the aim is to develop an AI powered system that helps people to go back to work while protecting them from infection through social distancing (reducing people's density at locations across NYC).
